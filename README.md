@@ -2,7 +2,14 @@
 
 This is simple front-end project featuring the use of "Parallax Effect" on a dark-themed webpage.
 
+### Technologies Used
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
 # How to Use
 
-1. Download the zip file locally.
-2. Run on your favourite browser.
+- Download the project zip file locally onto your computer.
+- Run the index.html file on your favourite browser.
+- Enjoy!
