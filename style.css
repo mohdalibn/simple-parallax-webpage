@@ -21,4 +21,11 @@ body {
     left: 0;
 }
 
-.
+.p-comp1 {
+    background: url(img/m_3.png) center/cover no-repeat;
+}
+
+.p-comp3 {
+    background: url(img/m_3.png) bottom/100% no-repeat;
+    background-size: cover;
+}
