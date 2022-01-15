@@ -22,10 +22,47 @@ body {
 }
 
 .p-comp1 {
-    background: url(img/m_3.png) center/cover no-repeat;
+    background: url(img/m_1.png) center/cover no-repeat;
 }
 
 .p-comp3 {
     background: url(img/m_3.png) bottom/100% no-repeat;
     background-size: cover;
+    background-position: center;
+    z-index: 2;
+}
+
+.container {
+    position: relative;
+    z-index: 1;
+    max-width: 1140px;
+    margin: 0 auto;
+    margin-top: 100vh;
+}
+
+.content-header {
+    font-family: "poppins", sans-serif;
+    color: #fff;
+    text-align: center !important;
+    text-transform: uppercase;
+}
+
+.content-header h1 {
+    font-size: 90px;
+    font-weight: 600;
+    color: #fff;
+    margin-bottom: -40px;
+}
+
+.content-header h2 {
+    font-size: 26px;
+    margin-top: 2em;
+    font-weight: 500;
+    color: #fff;
+}
+
+.content {
+    width: 200px;
+    height: auto;
+    margin-right: 40px;
 }
