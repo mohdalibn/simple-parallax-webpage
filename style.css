@@ -1,2 +1,24 @@
 /* Importing the Poppins font using google's cdn */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
+
+
+/* Styling for the Body */
+body {
+    overflow-x: hidden;
+}
+
+
+.main-parallax {
+    position: absolute;
+    height: 100%;
+}
+
+.plx-comp {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+}
+
+.
