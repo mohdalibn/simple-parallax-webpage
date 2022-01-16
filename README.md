@@ -13,3 +13,7 @@ This is simple front-end project featuring the use of "Parallax Effect" on a dar
 - Download the project zip file locally onto your computer.
 - Run the index.html file on your favourite browser.
 - Enjoy!
+
+# Credit
+
+- Rized Web Design (YouTube)
