@@ -1,5 +1,7 @@
 # Simple Parallax WebPage
 
+![websiteSS2](https://user-images.githubusercontent.com/95453430/154361417-add26c3c-6011-45df-ac38-e8db6a1b49b6.png)
+
 This is simple front-end project featuring the use of "Parallax Effect" on a dark-themed webpage.
 
 ### Technologies Used
